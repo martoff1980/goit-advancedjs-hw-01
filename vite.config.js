@@ -44,5 +44,10 @@ export default defineConfig(({ command }) => {
         sort: 'mobile-first',
       }),
     ],
+    resolve: {
+      alias: {
+        'simple-lightbox': 'simple-lightbox/dist/simple-lightbox.esm.js',
+      },
+    },
   };
 });
