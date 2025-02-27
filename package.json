@@ -19,6 +19,6 @@
   "dependencies": {
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2",
-    "simple-lightbox": "^2.10.0"
+    "simple-lightbox": "^2.13.0"
   }
 }
