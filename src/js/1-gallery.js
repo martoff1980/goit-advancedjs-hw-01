@@ -92,10 +92,10 @@ function clearLocalStorage() {
 }
 function createGalleryItem() {
   const lightbox = new SimpleLightbox('.gallery a', {
-    captions: false,
+    // captions: false,
     captionsData: 'alt',
     captionDelay: 250,
-    overlay: false,
+    // overlay: false,
   });
 
   //Функція візуалізацїї клику
